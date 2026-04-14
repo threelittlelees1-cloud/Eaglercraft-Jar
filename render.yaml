@@ -5,3 +5,4 @@ services:
     buildCommand: ""
     startCommand: "java -jar EaglerSPRelay.jar"
     plan: free
+    
