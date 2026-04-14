@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: eagler-relay
+    env: java
+    buildCommand: ""
+    startCommand: "java -jar EaglerSPRelay.jar"
+    plan: free
